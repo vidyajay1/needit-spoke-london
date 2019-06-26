@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">4856f5d1db1e3300c7ba9444ca9619b3</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Overdue Challenge">1b8766dddb5e3300c7ba9444ca96195a</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 20:42:02</sys_created_on>
+        <sys_id>2799e611db9e3300c7ba9444ca9619f7</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_372031_needit_sp">419c21dddbd63300c7ba9444ca961970</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">419c21dddbd63300c7ba9444ca961970</sys_scope>
+        <sys_update_name>sys_hub_action_instance_2799e611db9e3300c7ba9444ca9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:49:03</sys_updated_on>
+        <ui_id>0504d8f8-a3df-4f95-b151-cc76ff3eda27</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2799e611db9e3300c7ba9444ca9619f7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2799e611db9e3300c7ba9444ca9619f7</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 20:49:01</sys_created_on>
+        <sys_id>2d3b6e51db9e3300c7ba9444ca961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:49:01</sys_updated_on>
+        <value/>
+        <variable display_value="">0456f5d1db1e3300c7ba9444ca9619b6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2799e611db9e3300c7ba9444ca9619f7</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 20:42:03</sys_created_on>
+        <sys_id>a399e611db9e3300c7ba9444ca9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:42:03</sys_updated_on>
+        <value/>
+        <variable display_value="">3af535d1db1e3300c7ba9444ca961900</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=2799e611db9e3300c7ba9444ca9619f7"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>days_ago</field>
+        <id>2799e611db9e3300c7ba9444ca9619f7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 20:42:03</sys_created_on>
+        <sys_id>2399e611db9e3300c7ba9444ca9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:42:03</sys_updated_on>
+        <table>var__m_sys_hub_action_input_82a2fd11db1e3300c7ba9444ca96194d</table>
+        <value>{{e64252d6-285c-4d10-8f5a-5403f0c047dc.property_value_}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>days_ago</field>
+        <id>2799e611db9e3300c7ba9444ca9619f7</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 20:49:01</sys_created_on>
+        <sys_id>a93b6e51db9e3300c7ba9444ca961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:49:01</sys_updated_on>
+        <table>var__m_sys_hub_action_input_4856f5d1db1e3300c7ba9444ca9619b3</table>
+        <value>{{e64252d6-285c-4d10-8f5a-5403f0c047dc.property_value_}}</value>
+    </sys_element_mapping>
+</record_update>

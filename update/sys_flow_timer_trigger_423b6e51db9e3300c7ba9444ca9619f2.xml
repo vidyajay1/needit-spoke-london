@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_timer_trigger">
+    <sys_flow_timer_trigger action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <day_of_month>1</day_of_month>
+        <day_of_week>5</day_of_week>
+        <name/>
+        <run_period/>
+        <run_start>2019-06-26 20:49:03</run_start>
+        <sys_class_name>sys_flow_timer_trigger</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 20:49:03</sys_created_on>
+        <sys_id>423b6e51db9e3300c7ba9444ca9619f2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_372031_needit_sp">419c21dddbd63300c7ba9444ca961970</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">419c21dddbd63300c7ba9444ca961970</sys_scope>
+        <sys_update_name>sys_flow_timer_trigger_423b6e51db9e3300c7ba9444ca9619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 20:49:53</sys_updated_on>
+        <time>1970-01-02 07:00:00</time>
+        <timer_type>3</timer_type>
+    </sys_flow_timer_trigger>
+</record_update>
